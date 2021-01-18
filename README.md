@@ -1,1 +1,1 @@
-# Technocolab_Internship
+# Kaggle_exercise
